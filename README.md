@@ -13,6 +13,7 @@ Automated vehicles promise a future where drivers can engage in non-driving task
 
 
 ## DeepTake Framework
+![DeepTake_Framework](https://github.com/erfpak7/DeepTake/tree/main/preview/NN_Structure.png)
 The neural network is a fully-connected feed-forward classifier with three hidden layers as shown in the figure. DeepTake utilizes a feed-forward DNN with a mini-batch stochastic gradient descent. The DNN model architecture begins with an input layer to match the the number of input features, and each layer receives the input values from the prior layer and outputs to the next one. DeepTake uses three hidden layers with 23, 14, and 8 ReLu units. 
 
 
