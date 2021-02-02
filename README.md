@@ -6,7 +6,7 @@ DeepTake framework Preview:
 [![DeepTake preview](https://img.youtube.com/vi/clw8O1t1Zms/0.jpg)](https://www.youtube.com/watch?v=clw8O1t1Zms)
 
 
-## Overview
+## Abstract
 ![DeepTake_Overview](https://github.com/erfpak7/DeepTake/tree/main/preview/DeepTake-overview-cropped.png)
 
 Automated vehicles promise a future where drivers can engage in non-driving tasks without hands on the steering wheels for a prolonged period. Nevertheless, automated vehicles may still need to occasionally hand the control back to drivers due to technology limitations and legal requirements. While some systems determine the need for driver takeover using driver context and road condition to initiate a takeover request, studies show that the driver may not react to it. We present DeepTake, a novel deep neural network-based framework that predicts multiple aspects of takeover behavior to ensure that the driver is able to safely take over the control when engaged in non-driving tasks. Using features from vehicle data, driver biometrics, and subjective measurements, DeepTake predicts the driver's intention, time, and quality of takeover. We evaluate DeepTake performance using multiple evaluation metrics. Results show that DeepTake reliably predicts the takeover intention, time, and quality, with an accuracy of 96%, 93%, and 83%, respectively. Results also indicate that DeepTake outperforms previous state-of-the-art methods on predicting driver takeover time and quality. Our findings have implications for the algorithm development of driver monitoring and state detection.
